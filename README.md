@@ -1,2 +1,2 @@
 # SistemaAcademico_DC
-Sistema académico realizado en Oracle como SGBD y lenguaje JAVA
+Sistema académico desarrollado en SQLServer 2022 y Visual Studio C#
